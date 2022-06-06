@@ -1,4 +1,6 @@
 # show-vbs-messages-tiktok
+créditos totais para @kiwizin pelo vídeo e ao seu namorado pelo código.
+estou apenas repassando o código para quem pediu. não sou o autor do script!!!
 ib: https://www.tiktok.com/@kiwizin/video/7098324082344594694
 
 
