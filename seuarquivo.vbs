@@ -1,0 +1,7 @@
+x=msgbox("you", 0+32, "you")
+x=msgbox("and", 0+64, "and")
+x=msgbox("me", 0+48, "me")
+x=msgbox("always", 0+16, "always")
+x=msgbox("rorever", 0+32, "rorever")
+x=msgbox("me da um bejao?", 4, "diz que sim diz que sim vai")
+x=msgbox("BEIJAO LINDO", 0, ":0")
