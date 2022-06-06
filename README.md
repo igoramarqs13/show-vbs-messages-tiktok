@@ -3,7 +3,7 @@ ib: https://www.tiktok.com/@kiwizin/video/7098324082344594694
 
 
 oi, gente.
-sigam o tutotial abaixo para vocês conseguirem fazer na casa de vocês.
+sigam o tutorial abaixo para vocês conseguirem fazer na casa de vocês.
 
 
 vá para área de trabalho ou em qualquer local que vocês consigam criar um arquivo novo no computador/notebook de vocês.
